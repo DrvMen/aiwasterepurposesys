@@ -1,14 +1,16 @@
-# StellarCycle: Space Debris Classification System
-Project Description
-StellarCycle is an AI-powered system designed to classify space debris into recyclable and non-recyclable categories, paving the way for sustainable space operations. Utilizing a deep learning model trained on spectrometric and visual data, the project integrates a user-friendly Flask-based UI for real-time image analysis.
+## OrbitalReclaim: Advanced Space Debris Sorting System  
 
-With its ability to distinguish between recyclable materials such as metals and polymers, and non-recyclable debris, StellarCycle aims to aid space agencies in optimizing debris management and reducing environmental hazards. The project serves as a stepping stone toward building a circular economy in space.
+### Project Overview  
+**OrbitalReclaim** is an innovative AI-driven solution designed to categorize space debris into recyclable and non-recyclable materials, fostering sustainable practices in space exploration. Leveraging a cutting-edge deep learning framework trained on spectrometric and image datasets, the system incorporates a streamlined Flask-based web application for instant debris classification.  
 
-Features
-Deep Learning Model: Powered by ResNet18 for high-accuracy classification.
-Dataset Handling: Custom scripts for train-validation-test splitting of images.
-Web-Based Interface: Built with Flask, HTML, CSS, and JavaScript, featuring a clean and intuitive design.
-Real-Time Predictions: Upload images to instantly determine whether the material is recyclable.
-Visualization: Includes loss and accuracy curves for performance tracking.
-Impact
-StellarCycle contributes to sustainable space exploration by providing an efficient and user-friendly tool to manage and repurpose space debris. It aligns with global efforts to reduce the growing challenge of orbital debris and promotes resource conservation in extraterrestrial environments.
+By accurately identifying recyclable components like metals and polymers and separating them from non-recyclable waste, OrbitalReclaim offers a practical approach to enhancing debris management and mitigating orbital risks. The project aspires to contribute to a circular economy beyond Earth’s atmosphere.  
+
+### Key Features  
+- **AI Model**: Utilizes ResNet18 for precise and efficient material classification.  
+- **Custom Dataset Management**: Tailored scripts ensure optimal splitting into training, validation, and testing datasets.  
+- **Interactive Web Interface**: Developed with Flask, HTML, CSS, and JavaScript for a seamless user experience.  
+- **Instant Results**: Upload an image to get immediate classification results.  
+- **Performance Insights**: Displays visualizations of training accuracy and loss for monitoring model improvements.  
+
+### Significance  
+OrbitalReclaim addresses the escalating issue of orbital debris by offering a robust, easy-to-use system for categorization and recycling. Its impact extends to advancing sustainability in space missions and supporting global efforts to minimize environmental harm while conserving valuable resources in outer space.  
